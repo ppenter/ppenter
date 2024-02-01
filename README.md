@@ -8,7 +8,7 @@ As a Full-Stack Developer, I specialize in:
 
 - Building responsive, high-performing web applications using **Next.js**
 - Developing robust backend solutions with **Node.js** and **Express**
-- Designing and managing databases with **MongoDB**, **PostgreSQL**
+- Designing and managing databases with **MongoDB**, **PostgreSQL**, **Mysql**
 - Implementing modern **JavaScript** and **TypeScript** best practices
 - Creating intuitive user interfaces with **React**
 
@@ -30,9 +30,9 @@ I am committed to continuous learning and improvement, currently diving deeper i
 ## 🛠️ Tools and Technologies
 
 - **Frontend**: React, Next.js, HTML5, CSS3, Bootstrap, Tailwind CSS
-- **Backend**: Node.js, Express, Flask
+- **Backend**: Node.js, Express, FastApi
 - **Database**: MongoDB, PostgreSQL, MySQL
-- **DevOps**: Docker, Kubernetes, CI/CD, Git
+- **DevOps**: Docker, CI/CD, Git
 - **Cloud**: AWS, Azure, Google Cloud
 - **Programming Languages**: JavaScript, TypeScript, Python
 
