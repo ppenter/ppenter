@@ -42,9 +42,7 @@ I have worked on various projects ranging from small business websites to large-
 
 ## 🤝 Connect with Me
 
-- LinkedIn: [Your LinkedIn](#)
-- Twitter: [Your Twitter](#)
-- Email: [Your Email](#)
+- Email: [jarupak.sri@gmail.com](#)
 
 I am always open to collaborating on projects, sharing knowledge, and building something innovative. If you're interested in AI, machine learning, or full-stack development, let's connect and explore how we can work together to push the boundaries of what's possible on the web.
 
