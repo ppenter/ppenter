@@ -1,52 +1,57 @@
-# Hi there, I'm ppenter 👋
+<h1 align="center">Hi there, I'm ppenter 👋</h1>
 
-I'm a Full-Stack Developer with a passion for creating and contributing to web technologies and applications. With a keen interest in exploring the intersection of AI and web development, I am constantly learning and adopting the latest technologies to enhance user experiences and solve complex problems.
+<p align="center">I'm a Full-Stack Developer with a passion for web technologies and AI. I'm all about creating innovative solutions and enhancing user experiences.</p>
 
-## 🌐 What I do
+<h2 align="center">🌐 What I Do</h2>
 
-As a Full-Stack Developer, I specialize in:
+<p align="center">
+I specialize in building responsive web applications, developing robust backend solutions, and integrating AI into web projects. Technologies I use include Next.js, Node.js, React, MongoDB, PostgreSQL, and more.
+</p>
 
-- Building responsive, high-performing web applications using **Next.js**
-- Developing robust backend solutions with **Node.js** and **Express**
-- Designing and managing databases with **MongoDB**, **PostgreSQL**, **Mysql**
-- Implementing modern **JavaScript** and **TypeScript** best practices
-- Creating intuitive user interfaces with **React**
+<h2 align="center">🔍 Current Interests</h2>
 
-## 🔍 Current Interests
+<ul>
+<li>AI in web applications</li>
+<li>Machine Learning</li>
+<li>Next.js for SEO-friendly web apps</li>
+</ul>
 
-- **Artificial Intelligence (AI)**: Exploring how AI can be integrated into web applications to provide intelligent features like personalized content, smart search, and automated customer support.
-- **Machine Learning**: Learning about data analysis and prediction models to implement in web projects for smarter decision-making.
-- **Next.js**: Focusing on server-side rendering and static site generation for faster, SEO-friendly web apps.
+<h2 align="center">📚 Continuous Learning</h2>
 
-## 📚 Continuous Learning
+<p align="center">
+Currently exploring advanced AI/ML algorithms, PWAs, cloud services, and containerization with Docker and Kubernetes.
+</p>
 
-I am committed to continuous learning and improvement, currently diving deeper into:
+<h2 align="center">🛠️ Tools and Technologies</h2>
 
-- Advanced AI and Machine Learning algorithms
-- Progressive Web Apps (PWAs) for offline capable, mobile-first applications
-- Cloud services like AWS and Azure for scalable, robust web application deployment
-- Containerization with Docker and Kubernetes for efficient development workflows
+<p>
+Frontend: React | Next.js | HTML5 | CSS3<br>
+Backend: Node.js | Express | FastApi<br>
+Database: MongoDB | PostgreSQL | MySQL<br>
+DevOps: Docker | CI/CD | Git<br>
+Cloud: AWS | Azure | Google Cloud<br>
+Languages: JavaScript | TypeScript | Python
+</p>
 
-## 🛠️ Tools and Technologies
+<h2 align="center">💼 Professional Experience</h2>
 
-- **Frontend**: React, Next.js, HTML5, CSS3, Bootstrap, Tailwind CSS
-- **Backend**: Node.js, Express, FastApi
-- **Database**: MongoDB, PostgreSQL, MySQL
-- **DevOps**: Docker, CI/CD, Git
-- **Cloud**: AWS, Azure, Google Cloud
-- **Programming Languages**: JavaScript, TypeScript, Python
+<p align="center">
+From small business websites to large-scale web applications, I've tackled a variety of projects that have honed my skills across the full stack.
+</p>
 
-## 💼 Professional Experience
+<h2 align="center">🤝 Connect with Me</h2>
 
-I have worked on various projects ranging from small business websites to large-scale web applications, each challenging and enhancing my skills in different aspects of web development.
+<p align="center">
+Interested in AI, machine learning, or full-stack development? Let's connect and explore the possibilities together.
+</p>
 
-## 🤝 Connect with Me
+<p align="center">
+  <a href="mailto:jarupak.sri@gmail.com">Email</a> |
+  <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a> |
+  <a href="https://twitter.com/yourtwitter">Twitter</a> |
+  <a href="https://yourblog.com">Blog</a>
+</p>
 
-- Email: [jarupak.sri@gmail.com](#)
-
-I am always open to collaborating on projects, sharing knowledge, and building something innovative. If you're interested in AI, machine learning, or full-stack development, let's connect and explore how we can work together to push the boundaries of what's possible on the web.
-
----
-
-"Empowering the web with cutting-edge technologies and innovative solutions."
-
+<p align="center">
+<i>"Want to make the world a better place."</i>
+</p>
